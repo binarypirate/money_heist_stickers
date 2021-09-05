@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.rose.myStickersApp",
+  "variantName": "processReleaseResources",
+  "elements": [
+    {
+      "type": "UNIVERSAL",
+      "filters": [],
+      "versionCode": 6,
+      "versionName": "6",
+      "outputFile": "app-universal-release.apk"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "DENSITY",
+          "value": "mdpi"
+        }
+      ],
+      "versionCode": 6,
+      "versionName": "6",
+      "outputFile": "app-mdpi-release.apk"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "DENSITY",
+          "value": "xhdpi"
+        }
+      ],
+      "versionCode": 6,
+      "versionName": "6",
+      "outputFile": "app-xhdpi-release.apk"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "DENSITY",
+          "value": "hdpi"
+        }
+      ],
+      "versionCode": 6,
+      "versionName": "6",
+      "outputFile": "app-hdpi-release.apk"
+    }
+  ]
+}

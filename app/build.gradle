@@ -1,0 +1,120 @@
+apply plugin: 'com.android.application'
+
+android {
+    //the compression of webp file during build causes problem with FileDescriptor in ContentProvider.
+    aaptOptions {
+        noCompress "webp"
+    }
+    compileSdkVersion 30
+    buildToolsVersion "30.0.2"
+
+    defaultConfig {
+        applicationId "com.rose.myStickersApp"
+        minSdkVersion 21
+        targetSdkVersion 30
+        versionCode 6
+        versionName "6"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        def contentProviderAuthority = applicationId + ".stickercontentprovider"
+        // Creates a placeholder property to use in the manifest.
+        manifestPlaceholders =
+                [contentProviderAuthority: contentProviderAuthority]
+        // Adds a new field for the authority to the BuildConfig class.
+        buildConfigField("String",
+                "CONTENT_PROVIDER_AUTHORITY",
+                "\"${contentProviderAuthority}\"")
+    }
+    buildTypes {
+        debug {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    splits {
+        density {
+            enable true
+            exclude "ldpi", "xxhdpi", "xxxhdpi"
+            compatibleScreens 'small', 'normal', 'large', 'xlarge'
+        }
+    }
+    compileOptions {
+        sourceCompatibility = '1.8'
+        targetCompatibility = '1.8'
+    }
+
+    packagingOptions {
+        exclude 'lib/*/libnative-imagetranscoder.so'
+        exclude 'lib/*/libnative-filters.so'
+    }
+}
+
+task checkDebug {
+    doLast {
+        println("checkDebug")
+        if (android.defaultConfig.applicationId.startsWith("com.whatsApp")) {
+            throw new GradleException("applicationId in defaultConfig cannot start with com.whatsapp, please change your applicationId in app/build.gradle")
+        }
+        checkApplicationIdInDebug()
+    }
+}
+
+private void checkApplicationIdInDebug() {
+    Properties properties = new Properties()
+    properties.load(project.rootProject.file('local.properties').newDataInputStream())
+    def ignoreApplicationIdCheck = properties.getProperty('ignoreApplicationIdCheck')
+    if (ignoreApplicationIdCheck == null) {
+
+    } else {
+        println("application id check ignored")
+    }
+}
+
+
+task checkRelease {
+    doLast {
+        println("checkRelease")
+        if (android.defaultConfig.applicationId.startsWith("com.my.whatsApp")) {
+            throw new GradleException("applicationId in defaultConfig cannot start with com.my.whatsApp, please change your applicationId in app/build.gradle")
+        }
+    }
+}
+
+tasks.whenTaskAdded { task ->
+    println(task.name)
+    if (task.name.contains("assembleDebug")) {
+        task.dependsOn checkDebug
+    }
+    if (task.name.contains("assembleRelease")) {
+        task.dependsOn checkRelease
+    }
+}
+
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'androidx.appcompat:appcompat:1.3.1'
+    implementation 'com.google.android.material:material:1.4.0'
+    implementation 'org.jetbrains:annotations:15.0'
+//    implementation 'com.google.firebase:firebase-ads:19.7.0'
+//    implementation project(path: ':unity-ads')
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test:runner:1.4.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+    implementation 'androidx.recyclerview:recyclerview:1.2.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.0'
+    def fresco_version = '2.2.0'
+    implementation "com.facebook.fresco:fresco:$fresco_version"
+    implementation "com.facebook.fresco:webpsupport:$fresco_version"
+    implementation "com.facebook.fresco:animated-webp:$fresco_version"
+    implementation "com.facebook.fresco:animated-base:$fresco_version"
+
+    implementation 'com.google.android.gms:play-services-ads:20.3.0'
+
+
+}

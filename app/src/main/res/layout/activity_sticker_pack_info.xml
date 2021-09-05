@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/infoPageBackgroundColor"
+    android:orientation="vertical"
+    android:paddingTop="8dp"
+    tools:context=".StickerPackInfoActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tray_icon"
+            style="@style/InfoButtonStyle"
+            android:clickable="false"
+            android:text="@string/info_screen_tray_icon"
+            android:textColor="#B9B9B9"
+            tools:drawableLeft="@drawable/sticker_3rdparty_web"
+            tools:drawableStart="@drawable/sticker_3rdparty_web" />
+
+        <TextView
+            android:id="@+id/view_webpage"
+            style="@style/InfoButtonStyle"
+            android:drawableStart="@drawable/sticker_3rdparty_web"
+            android:drawableLeft="@drawable/sticker_3rdparty_web"
+            android:text="@string/view_webpage" />
+
+        <TextView
+            android:id="@+id/send_email"
+            style="@style/InfoButtonStyle"
+            android:drawableStart="@drawable/sticker_3rdparty_email"
+            android:drawableLeft="@drawable/sticker_3rdparty_email"
+            android:text="@string/send_email" />
+
+        <TextView
+            android:id="@+id/privacy_policy"
+            style="@style/InfoButtonStyle"
+            android:drawableStart="@drawable/sticker_3rdparty_privacy"
+            android:drawableLeft="@drawable/sticker_3rdparty_privacy"
+            android:text="@string/privacy_policy" />
+
+        <TextView
+            android:id="@+id/license_agreement"
+            style="@style/InfoButtonStyle"
+            android:drawableStart="@drawable/sticker_3rdparty_license"
+            android:drawableLeft="@drawable/sticker_3rdparty_license"
+            android:text="@string/license_agreement" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/infoLinerbannerset"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="bottom|center_horizontal">
+
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            ads:adSize="BANNER"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            ads:adUnitId="ca-app-pub-3940256099942544/6300978111">
+        </com.google.android.gms.ads.AdView>
+
+
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>

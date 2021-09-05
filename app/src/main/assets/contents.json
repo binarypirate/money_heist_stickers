@@ -1,0 +1,1424 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+
+    {
+      "identifier": "0",
+      "name": "The Professor",
+      "publisher": "PsychoAppsHub",
+      "tray_image_file": "sti1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "sti1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sti2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "sti3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "sti4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "sti5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "sti6.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "sti7.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "sti8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "sti9.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "sti10.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "sti11.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "sti12.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "sti13.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "sti14.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "sti15.webp",
+          "emojis": ["😆","😂"]
+        }
+      ]
+    },
+    {
+      "identifier": "1",
+      "name": "Berlin",
+      "publisher": "PsychoAppsHub",
+      "tray_image_file": "ber1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "ber1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "ber2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "ber3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "ber4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "ber5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "ber6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "ber7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "ber8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "ber9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "ber10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "ber11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "ber12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "ber13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "ber14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "ber15.webp",
+          "emojis": ["💻","😩"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Tokyo",
+      "publisher": "PsychoAppsHub",
+      "tray_image_file": "tok1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "tok1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "tok2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "tok3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "tok4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "tok5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "tok6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "tok7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "tok8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "tok9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "tok10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "tok11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "tok12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "tok13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "tok14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "tok15.webp",
+          "emojis": ["💻","😩"]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Nairobi",
+      "publisher": "PsychoAppsHub",
+      "tray_image_file": "nai1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "nai1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "nai2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "nai3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "nai4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "nai5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "nai6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "nai7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "nai8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "nai9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "nai10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "nai11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "nai12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "nai13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "nai14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "nai15.webp",
+          "emojis": ["💻","😩"]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Denver",
+      "publisher": "PsychoAppsHub",
+      "tray_image_file": "denver1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "denver1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "denver2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "denver3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "denver4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "denver5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "denver6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "denver7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "denver8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "denver9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "denver10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "denver11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "denver12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "denver13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "denver14.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "denver15.webp",
+          "emojis": ["❓","🤔"]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Helsinki",
+      "publisher": "PsychoAppsHub",
+      "tray_image_file": "hel1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "hel1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "hel2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "hel3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "hel4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "hel5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "hel6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "hel7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "hel8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "hel9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "hel10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "hel11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "hel12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "hel13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "hel14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "hel15.webp",
+          "emojis": ["💻","😩"]
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Rio",
+      "publisher": "PsychoAppsHub",
+      "tray_image_file": "rio1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "rio1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "rio2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "rio3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "rio4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "rio5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "rio6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "rio7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "rio8.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "rio9.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "rio10.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "rio11.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "rio12.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "rio13.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "rio14.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "rio15.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Raquel Murillo",
+      "publisher": "PsychoAppsHub",
+      "tray_image_file": "raquel1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "raquel1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "raquel2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "raquel3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "raquel4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "raquel5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "raquel6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "raquel7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "raquel8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "raquel9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "raquel10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "raquel11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "raquel12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "raquel13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "raquel14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "raquel15.webp",
+          "emojis": ["💻","😩"]
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Monica & Arturo",
+      "publisher": "PsychoAppsHub",
+      "tray_image_file": "monica1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "monica1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "monica2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "monica3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "monica4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "monica5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "monica6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "monica7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "monica8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "monica9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "monica10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "monica11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "monica12.webp",
+          "emojis": ["😡","😠"]
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Mix Characters",
+      "publisher": "PsychoAppsHub",
+      "tray_image_file": "mix1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "mix1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "mix2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "mix3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "mix4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "mix5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "mix6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "mix7.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "mix8.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "mix9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "mix10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "mix11.webp",
+          "emojis": ["😆","😂"]
+        }
+      ]
+    },
+    {
+      "identifier": "10",
+      "name": "Mask",
+      "publisher": "PsychoAppsHub",
+      "tray_image_file": "mask1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "mask1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "mask2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "mask3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "mask4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "mask5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "mask6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "mask7.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "mask8.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "mask9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "mask10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "mask11.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "mask12.webp",
+          "emojis": ["😩","😰"]
+        },{
+          "image_file": "mask13.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "11",
+      "name": "Police",
+      "publisher": "PsychoAppsHub",
+      "tray_image_file": "pic1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "pic1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic7.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic8.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic11.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic12.webp",
+          "emojis": ["😩","😰"]
+        },{
+          "image_file": "pic13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic14.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },
+    {
+      "identifier": "12",
+      "name": "Homer Simpson",
+      "publisher": "PsychoAppsHub",
+      "tray_image_file": "pic.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "pic.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic1.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic2.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic3.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic6.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic7.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic10.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic11.webp",
+          "emojis": ["😩","😰"]
+        },{
+          "image_file": "pic12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic14.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic15.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic16.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "13",
+      "name": "Doctor Who",
+      "publisher": "PsychoAppsHub",
+      "tray_image_file": "pic.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "pic.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic1.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic2.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic3.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic6.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic7.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic10.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic11.webp",
+          "emojis": ["😩","😰"]
+        },{
+          "image_file": "pic12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic14.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic15.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic17.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic18.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "14",
+      "name": "Charlie Chaplin",
+      "publisher": "PsychoAppsHub",
+      "tray_image_file": "pic.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "pic.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic1.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic2.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic3.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic6.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic7.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic10.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic11.webp",
+          "emojis": ["😩","😰"]
+        },{
+          "image_file": "pic12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic14.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic15.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic17.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    },
+    {
+      "identifier": "15",
+      "name": "Funny Dog",
+      "publisher": "PsychoAppsHub",
+      "tray_image_file": "pic.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "pic.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic1.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic2.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic3.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic6.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic7.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic10.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic11.webp",
+          "emojis": ["😩","😰"]
+        },{
+          "image_file": "pic12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic14.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic15.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic17.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    },
+    {
+      "identifier": "16",
+      "name": "Happy New Year",
+      "publisher": "PsychoAppsHub",
+      "tray_image_file": "pic.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "pic.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic1.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic2.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic3.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic6.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic7.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic10.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic11.webp",
+          "emojis": ["😩","😰"]
+        },{
+          "image_file": "pic12.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "17",
+      "name": "Harry Potter",
+      "publisher": "PsychoAppsHub",
+      "tray_image_file": "pic.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "pic.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic1.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic2.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic3.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic6.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic7.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic10.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic11.webp",
+          "emojis": ["😩","😰"]
+        },{
+          "image_file": "pic12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic13.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },
+    {
+      "identifier": "18",
+      "name": "Fun",
+      "publisher": "PsychoAppsHub",
+      "tray_image_file": "pic.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "pic.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic1.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic2.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic3.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic6.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic7.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic10.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic11.webp",
+          "emojis": ["😩","😰"]
+        },{
+          "image_file": "pic12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic15.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pic16.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pic17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pic19.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pic20.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    }
+  ]
+}
